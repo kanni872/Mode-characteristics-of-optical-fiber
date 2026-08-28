@@ -1,5 +1,5 @@
-# Mode-characteristics-of-optical-fiber
-# AIM
+## Mode-characteristics-of-optical-fiber
+## AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
 ---
@@ -13,11 +13,11 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 ---
 
-# Theory
-<img width="636" height="762" alt="image" src="https://github.com/user-attachments/assets/2db42f3c-7370-4b47-a29b-cbf81f69273f" />
+## Theory
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2db42f3c-7370-4b47-a29b-cbf81f69273f" />
 
 
-# Procedure
+## Procedure
 1. Place the optical breadboard on a flat table surface.  
 2. Fix the cylindrical head of the He-Ne laser source onto the breadboard securely.  
 3. Mount the laser to the fiber coupler with its base plate oriented toward the laser exit.  
@@ -30,16 +30,14 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 10. For single mode fiber, observe blur patterns with lobes (two, three, or four) by fine-tuning the coupler screws.  
 
 ---
-<img width="618" height="722" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
 
-# Observation and Calculation
-<img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
+## Observation and Calculation
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
 
-<img width="618" height="722" alt="optical" src="https://github.com/user-attachments/assets/764ace5c-286e-427b-a6d9-d18daa63a296" />
+<img width="500" height="500" alt="WhatsApp Image 2026-08-07 at 9 44 27 AM" src="https://github.com/user-attachments/assets/6b2c7e07-5934-43e8-a945-4156009900b1" />
 
 ---
 
-# Result
-
- Thus the mode characteristics of fiber optic cable and the lower order Linearly Polarized (LP) modes was observed and studied.
-
+## Result
+Thus the mode characteristics of fiber optic cable and the lower order Linearly Polarized (LP) modes was observed and studied.
